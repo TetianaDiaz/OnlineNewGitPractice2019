@@ -6,3 +6,4 @@ Tesla
 Kia Optima
 Mercedes 5500
 Lexus GX470
+Subaru WRX STI
