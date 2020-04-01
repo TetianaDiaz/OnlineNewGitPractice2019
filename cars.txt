@@ -5,6 +5,11 @@ Audi R8
 Tesla
 Kia Optima
 Mercedes 5500
+<<<<<<< HEAD
 Kia Optima
 Honda Civic
 Range Rover Velar
+=======
+Lexus GX470
+Subaru WRX STI
+>>>>>>> 13eb33661059edb6fee01d80f1dc4d3dc14576a4
